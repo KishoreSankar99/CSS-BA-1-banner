@@ -1,0 +1,185 @@
+body{
+    background-color: rgb(0, 0, 21);
+}
+.box-part1{
+    background-color: lightgray;
+    padding: 50px 20px;
+    margin: 40px 10px;
+    
+}
+.malepink{
+    color: rgb(165, 23, 71);
+}
+.maleblack{
+    color: black;
+}
+.fa-facebook{
+    color: rgb(66, 66, 131);
+}
+.text{
+    margin: 20px 0px;
+}
+.col-sm-4{
+    
+}
+.box{
+    
+    
+}
+
+
+.box2{
+    background-color: rgb(35, 169, 199);
+    margin-left: -15px;
+    padding-top: 34px;
+}
+.instagram{
+    background-color: orange;
+    margin-right: -15px;
+    color: white;
+    
+}
+.big{
+    font-weight: 1000;
+    font-size:50px;
+    color: white;
+}
+.medium{
+    font-size: 35px;
+    font-weight:750;
+    color: white;
+}
+a,p{
+    color: white;
+}
+.spoon{
+    position: relative;
+    right: 190px;
+    top: 50px;
+}
+.box2e1{
+    position: relative;
+    top: 50px;
+}
+.box3{
+    background-color: rgb(255, 48, 117);
+    
+}
+.drink{
+    position: relative;
+    left: 850px;
+}
+.money{
+    position: relative;
+    left: 700px;
+    bottom: 70px;
+}
+.mon{
+    position: relative;
+    left:838px;
+    top: 3px;
+}
+.pov{
+    position: relative;
+    left: 690px;
+    bottom: 70px;
+}
+.box3h4{
+    position: relative;
+    bottom: 150px;
+}
+.box3p{
+    position: relative;
+    bottom: 100px;
+}
+.box4{
+    background-color: rgb(35, 169, 199);
+    position: relative;
+    
+}
+.box4-1{
+    background-color: rgb(35, 169, 199);
+    padding-bottom:149px ;
+    position: relative;
+    right: 50px;
+    margin-right: -49px;
+    
+
+}
+.box4heading{
+    position: relative;
+    right: 130px;
+    bottom: 50px;
+
+}
+.warn{
+    position: relative;
+    bottom: 10px;
+    right: 7px;
+}
+.box4p{
+position: relative;
+bottom: 40px;
+}
+.box4-1p{
+    position: relative;
+    top: 50px;
+}
+.box5{
+    position: relative;
+    background-color: rgb(255, 48, 117);
+    padding-bottom: 90px;
+    margin-right: -12px;
+}
+.fries{
+    color: orange;
+}
+.box6{
+    background-color: orange;
+    margin-left: -12px;
+}
+.box7{
+    background-color:  rgb(35, 169, 199);
+    
+}
+.tv{
+    position: relative;
+    left: 800px;
+    bottom: 100px;
+}
+.box8{
+    background-color: orange;
+}
+.cycle{
+    position: relative;
+    bottom: 100px;
+    right: 20px;
+    color: rgb(255, 48, 117);
+}
+.box9{
+    background-color:rgb(35, 169, 199);
+    position: relative;
+    margin-right: -10px;
+    
+
+}
+.box10{
+    background-color:rgb(255, 48, 117) ;
+    position: relative;
+    left: 560px;
+    bottom: 428px;
+    margin-left: -10px;
+    
+}
+.heading {
+    background-color: transparent;
+}
+.hh{
+    color: rgb(255, 67, 67);
+}
+.child{
+    color:rgb(35, 169, 199);
+    position: relative;
+    bottom: 120px;
+    left: 250px;
+}
